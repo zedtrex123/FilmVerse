@@ -1,0 +1,19 @@
+{
+  "id": "any_id",
+  "name": "Filmverse",
+  "short_name": "Filmverse",
+  "description": "Biblioteka filmów",
+  "icons": [
+    {
+      "src": "./icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait"
+}
